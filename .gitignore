@@ -1,7 +1,0 @@
-# Ignore virtual environment
-newv/
-__pycache__/
-*.pyc
-
-# Ignore VS Code settings
-.vscode/
